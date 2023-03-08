@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jay-rodriguez-bb
 - 👀 I’m interested in standardization, IAC, and CI/CD
-- 🌱 I’m currently learning GitHub migrations & actions
+- 🌱 I’m currently learning GitHub Advanced Security
 - 💞️ I’m looking to collaborate on GitHub Runner improvements/automation
 - 📫 How to reach me jay@boxboat.com
 
